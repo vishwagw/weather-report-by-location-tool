@@ -1,0 +1,10 @@
+this is a simple tool for analysing a weather report in a selected area. 
+this tool is also developing a GUI for analysis. 
+
+Prerequisties: 
+Tkniter - a good GUI to create user interface for the model.(GUI-Graphical User Interface) 
+requests - python library 
+json - JS object Notation(use to transfer data as text that can be sent over a network.used by many API and Databases to make both humans and machines read easily.)
+
+
+
